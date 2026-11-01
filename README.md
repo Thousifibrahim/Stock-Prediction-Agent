@@ -1,5 +1,7 @@
 # Prognos-AI-Agent
 
+![stack: Python](https://img.shields.io/badge/stack-Python-3776AB)
+
 An AI-powered stock recommendation system that provides personalized investment suggestions based on natural language queries.
 
 ## Overview
